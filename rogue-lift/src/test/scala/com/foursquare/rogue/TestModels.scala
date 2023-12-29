@@ -196,4 +196,3 @@ class CalendarInner private() extends BsonRecord[CalendarInner] {
 }
 
 object CalendarInner extends CalendarInner with BsonMetaRecord[CalendarInner]
-
